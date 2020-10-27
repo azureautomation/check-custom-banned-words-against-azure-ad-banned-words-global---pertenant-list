@@ -1,7 +1,7 @@
 {
     "Author": "Jorge de Almeida Pinto [MVP]",
     "ContentSize": 20439,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-custom-banned-words-against-azure-ad-banned-words-global-&-pertenant-list/master/AAD-Password-Protection-Check-Custom-AAD-Banned-Word-List.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-custom-banned-words-against-azure-ad-banned-words-global---pertenant-list/master/AAD-Password-Protection-Check-Custom-AAD-Banned-Word-List.ps1",
     "DownloadCount": 216,
     "Id": "Check-Custom-Banned-Words-47b75b7b",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "WARNING: Due to retirement of Technet Script Gallery, migrated to:https://github.com/zjorz/Public-AAD-Scripts/blob/master/AAD-Password-Protection-Check-Custom-AAD-Banned-Word-List.ps1With this PoSH script, you can test candidate banned words in a text file against Azure AD to det",
     "Title": "Check Custom Banned Words Against Azure AD Banned Words Global & Per-Tenant List",
     "UpdatedDate": "2020-4-3T00:00:00",
-    "Url": "https://github.com/azureautomation/check-custom-banned-words-against-azure-ad-banned-words-global-&-pertenant-list",
+    "Url": "https://github.com/azureautomation/check-custom-banned-words-against-azure-ad-banned-words-global---pertenant-list",
     "UserTags": "Azure AD Password Protection, Banned Password List, BPL"
 }
